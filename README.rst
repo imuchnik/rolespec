@@ -3,7 +3,7 @@ RoleSpec
 
 |Build status|
 
-A shell based test library for Ansible that works both locally and over Travis-CI.
+A shell based test library for Ansible that works both locally and over Travis-CI. Having local trouble.
 
 .. contents::
    :local:
